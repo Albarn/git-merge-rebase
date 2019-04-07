@@ -1,0 +1,3 @@
+<img class="box" src="images\i1.jpg" >
+<img class="box" src="images\i2.jpg" >
+<img class="box" src="images\i3.jpg" >

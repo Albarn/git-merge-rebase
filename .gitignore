@@ -1,0 +1,4 @@
+*.lib
+!super.lib
+build/
+doc/*.cat
