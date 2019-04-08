@@ -10,8 +10,8 @@ git add --all
 git commit -m "init"
 
 git checkout -b develop
-mkdir task1
-cd task1
+mkdir "task1 - git practise I"
+cd "task1 - git practise I"
 cd . > index.html
 git add --all
 git commit -m "add index.html"
@@ -55,7 +55,7 @@ git checkout master
 git merge develop
 
 git checkout develop
-cd task1
+cd "task1 - git practise I"
 git checkout -b images2
 mkdir images2
 copy ..\..\git-task1\images2 images2

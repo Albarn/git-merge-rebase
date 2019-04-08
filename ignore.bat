@@ -5,3 +5,4 @@ cd . > build/file.txt
 mkdir doc
 cd . > doc/file.txt
 cd . > doc/some.cat
+exit
